@@ -1,0 +1,7 @@
+# GetSegmentResponseCollection
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**data** | **List&lt;AllOfGetSegmentResponseCollectionDataItems&gt;** |  | 
+**links** | [**CollectionLinks**](CollectionLinks.md) |  |  [optional]

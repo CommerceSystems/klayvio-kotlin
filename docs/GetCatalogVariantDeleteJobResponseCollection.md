@@ -1,0 +1,7 @@
+# GetCatalogVariantDeleteJobResponseCollection
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**data** | **List&lt;AllOfGetCatalogVariantDeleteJobResponseCollectionDataItems&gt;** |  | 
+**links** | [**CollectionLinks**](CollectionLinks.md) |  |  [optional]
